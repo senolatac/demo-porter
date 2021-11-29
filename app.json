@@ -1,0 +1,8 @@
+{
+  "name": "demo-porter",
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
